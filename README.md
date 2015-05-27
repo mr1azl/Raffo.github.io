@@ -3,14 +3,14 @@
 Thank's to Mark Otto for the theme and implementation, it's just awesome. You
 can read the orginal below.
 
-## Author
+## Original Theme Author
 
 **Mark Otto**
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
 
 
-## License
+## Theme License
 
 Open sourced under the [MIT license](LICENSE.md).
 
