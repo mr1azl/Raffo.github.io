@@ -11,7 +11,7 @@ title:            Raffaele Di Fazio
 tagline:          'Raffaele Di Fazio Blog.'
 description:      'A blog about life and tech. Mainly English content, sometimes some Italian will appear.'
 url:              http://twitter.com/x0rg 
-baseurl:          http://raffo.github.io
+baseurl:          
 
 author:
   name:           'Mark Otto'
