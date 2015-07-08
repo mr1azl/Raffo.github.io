@@ -7,8 +7,8 @@ I spent my last week of work trying to learn Go. Till now, the experience is
 very strange: I mostly like the language so far, but there are many things that
 are surprising and different from other languages like empty interfaces, the
 whole idea of the error handling without exceptions, no classes, etc. 
-While I try to have an serious idea about Go, and I need some more days of
-development, I collect here a collection of link that I found useful. 
+While I try to have a serious idea about Go (I need some more days of
+development) I will try to collect here some links that I found useful. 
 
 [Go Slices: usage and
 internals](http://blog.golang.org/go-slices-usage-and-internals)
